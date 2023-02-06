@@ -1,4 +1,4 @@
- Projeto desenvolvido para o desafio 01 da especialização em React da [RockeatSeat](https://www.rocketseat.com.br/) na lha Ignite.
+ Projeto desenvolvido para o desafio 01 da especialização em React da [RockeatSeat](https://www.rocketseat.com.br/) na trilha Ignite.
 
 
 
